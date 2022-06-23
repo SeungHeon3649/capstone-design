@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/94602114/175318217-ec607ce4-3d4f-4d13-819b-c79d845eed28.png)
 
 ### navigation node Block Diagram  
-![캡처](https://user-images.githubusercontent.com/94602114/175317866-de436de3-97ef-48f4-bdc5-c7f0723f87fb.PNG)
+![image](https://user-images.githubusercontent.com/94602114/175333138-0412e1da-08a6-404e-8b5b-cf6c49e9353e.png)  
 - AMCL Node  
   - lidar data를 가지고 특징점을 찾아 자신의 위치를 추정하는 알고리즘  
   - 초기  
