@@ -1,0 +1,17 @@
+source /opt/ros/melodic/setup.bash
+source ~/catkin_ws/devel/setup.bash
+
+#ncslab pc
+export ROS_HOSTNAME=192.168.0.66
+export ROS_MASTER_URI=http://192.168.0.14:11311
+#13226 pc
+#export ROS_HOSTNAME=192.168.0.143
+#export ROS_MASTER_URI=http://192.168.0.71:11311
+#13326 notebook
+#export ROS_HOSTNAME=192.168.0.143
+#export ROS_MASTER_URI=http://192.168.0.142:11311
+export TURTLEBOT3_MODEL=waffle
+
+alias rosmel='source /opt/ros/melodic/setup.bash && source ~/catkin_ws/devel/setup.bash'
+alias cm='cd ~/catkin_ws && catkin_make'
+alias cw='cd ~/catkin_ws'
