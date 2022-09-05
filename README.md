@@ -22,12 +22,12 @@
  - 디지털 정보관 1층 slam 및 navigation  
  https://youtu.be/Y2KB4LlKs5s
  
- # 문제점  
- deadreckoning을 이용하여 x좌표 y좌표, theta를 구하는데  
- 직진만 하였을 때는 오차가 적지만  
- 회전을 하였을 때 오차가 누적되는 현상을 발견하였음  
- 
- 그리하여 IMU의 raw data를 filtering하여 theta값(YAW)을 추정할 예정
+ # Multi-robot-simulation  
+ ## transform tree  
+ ![b9303efd99f4e86728f09dc9e490023db08b5875](https://user-images.githubusercontent.com/94602114/188367818-a5e267f5-42c4-4006-93b9-6f6a95562042.png)
+
+## rqt_graph
+
  
 
 https://user-images.githubusercontent.com/94602114/175331810-7e71c63e-b27f-4f9e-95c0-57893c6c037d.mp4
