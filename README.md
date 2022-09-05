@@ -19,6 +19,9 @@
  - 구동 영상  
  https://youtu.be/1NEKSqXpm4c
  
+ - 디지털 정보관 1층 slam 및 navigation  
+ https://youtu.be/Y2KB4LlKs5s
+ 
  # 문제점  
  deadreckoning을 이용하여 x좌표 y좌표, theta를 구하는데  
  직진만 하였을 때는 오차가 적지만  
