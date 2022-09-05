@@ -27,9 +27,3 @@
  ![b9303efd99f4e86728f09dc9e490023db08b5875](https://user-images.githubusercontent.com/94602114/188367818-a5e267f5-42c4-4006-93b9-6f6a95562042.png)
 
 ## rqt_graph
-
- 
-
-https://user-images.githubusercontent.com/94602114/175331810-7e71c63e-b27f-4f9e-95c0-57893c6c037d.mp4
-
-그러나 imu데이터에 drift가 살짝 있음 -> 우선 실험을 해볼 예정
