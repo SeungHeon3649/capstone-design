@@ -19,7 +19,9 @@
  - 구동 영상  
  https://youtu.be/1NEKSqXpm4c
  
- - 디지털 정보관 1층 slam 및 navigation  
+ - 디지털 정보관 1층 slam 및 navigation 
+ ![1658298974067](https://user-images.githubusercontent.com/94602114/188551885-1a6e7ad6-e63c-4af4-a3b3-dfa204b54982.jpg)
+
  https://youtu.be/Y2KB4LlKs5s
  
  # Multi-robot-simulation  
