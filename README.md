@@ -13,6 +13,14 @@
 ### Service robot Block Diagram  
 ![image](https://user-images.githubusercontent.com/94602114/200448002-ce8384bd-69d4-4e37-a437-80a4e45a1acf.png)
 
+- SLAM Node(Simultaneous localization and mapping) 
+  - 자율주행 차량에 사용되어 동시에 위치를 추정하고 주변 환경에 대한 지도를 작성하는 기술입니다.  
+  
+
+https://user-images.githubusercontent.com/94602114/200451320-b7a866bc-86a5-4843-85f3-7d02b073f2a1.mp4
+
+
+
 - AMCL Node(Adaptive Monte Carlo Localization)  
   - lidar data를 가지고 특징점을 찾아 자신의 위치를 추정하는 알고리즘  
   - 초기  
