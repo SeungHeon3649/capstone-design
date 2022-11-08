@@ -1,10 +1,19 @@
-# capstone-design  
-### Service robot Block Diagram  
-![image](https://user-images.githubusercontent.com/94602114/175318217-ec607ce4-3d4f-4d13-819b-c79d845eed28.png)
+# capstone-design
+## Harware  
+- Board  
+  - Jetson nano, Rasberry Pi  
+ 
+- Wheel  
+  - Dynamixel xc430  
 
-### navigation node Block Diagram  
-![image](https://user-images.githubusercontent.com/94602114/175333138-0412e1da-08a6-404e-8b5b-cf6c49e9353e.png)  
-- AMCL Node  
+- Lidar  
+  - RP Lidar A1  
+![image](https://user-images.githubusercontent.com/94602114/200448379-fb0d22c4-9538-4bf0-a420-cf2caf58e01e.png)
+
+### Service robot Block Diagram  
+![image](https://user-images.githubusercontent.com/94602114/200448002-ce8384bd-69d4-4e37-a437-80a4e45a1acf.png)
+
+- AMCL Node(Adaptive Monte Carlo Localization)  
   - lidar data를 가지고 특징점을 찾아 자신의 위치를 추정하는 알고리즘  
   - 초기  
 ![스크린샷, 2022-06-23 23-19-08](https://user-images.githubusercontent.com/94602114/175321758-4bb87b78-14c9-4028-9af3-bc452ef81cc8.png)
