@@ -1,5 +1,12 @@
 # capstone-design
-## Harware  
+
+#### 팀명 : ncslab
+
+#### 기간 : 2022. 03 ~ 2022. 11
+
+#### 팀원 : 고신엽, 이승헌, 장석천
+
+# Harware  
 - Board  
   - Jetson nano, Rasberry Pi  
  
@@ -10,7 +17,7 @@
   - RP Lidar A1  
 ![image](https://user-images.githubusercontent.com/94602114/200448379-fb0d22c4-9538-4bf0-a420-cf2caf58e01e.png)
 
-### Service robot Block Diagram  
+# Service robot Block Diagram  
 ![image](https://user-images.githubusercontent.com/94602114/200448002-ce8384bd-69d4-4e37-a437-80a4e45a1acf.png)
 
 - SLAM Node(Simultaneous localization and mapping) 
@@ -41,8 +48,8 @@ https://user-images.githubusercontent.com/94602114/200451320-b7a866bc-86a5-4843-
 
  https://youtu.be/Y2KB4LlKs5s
  
- # Multi-robot-simulation  
- ## transform tree  
+# Multi-robot-simulation  
+## transform tree  
  ![b9303efd99f4e86728f09dc9e490023db08b5875](https://user-images.githubusercontent.com/94602114/188367818-a5e267f5-42c4-4006-93b9-6f6a95562042.png)
 
 ## rqt_graph
